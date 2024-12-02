@@ -1,0 +1,8 @@
+# Define las reglas para etiquetar pull requests
+estructura:
+  - changed-files:
+    - any-glob-to-any-file: "**/*.html"
+
+estilo:
+  - changed-files:
+    - any-glob-to-any-file: "**/*.css"
