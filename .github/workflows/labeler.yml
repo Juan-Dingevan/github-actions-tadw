@@ -1,0 +1,6 @@
+# Define las reglas para etiquetar pull requests
+estructura:
+  - "**/*.html"
+
+estilo:
+  - "**/*.css"
